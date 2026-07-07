@@ -5,7 +5,7 @@ class Solution:
 
         
         for current_index in range(n):
-            common_count = 0
+            common_count = 0n
 
             
             for a_index in range(current_index + 1):
